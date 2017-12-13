@@ -1,0 +1,28 @@
+* {
+	border: 2px solid orange;
+}
+body {
+	background: #313131;
+}
+
+.song {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	h2 {
+		font-size: 40px;
+		color: gold;
+		text-align: center;
+		padding: 10px 20px;
+		&:hover {			
+			text-decoration: underline;
+		}
+	}
+	p {
+		font-size: 22px;
+		color: #fff;
+		width: 300px;
+		text-align: center;
+	}
+}
