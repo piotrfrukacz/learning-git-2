@@ -14,7 +14,7 @@ body {
     .song h2:hover {
       text-decoration: underline; }
   .song p {
-    font-size: 22px;
+    font-size: 20px;
     color: #fff;
     width: 300px;
     text-align: center; }
