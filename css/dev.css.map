@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "dev.css",
+	"sources": [
+		"../sass/dev.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,CAAC,CAAC;EACF,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,IAAI;CACf"
+}
